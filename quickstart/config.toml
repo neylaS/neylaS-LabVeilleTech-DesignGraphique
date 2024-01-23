@@ -1,0 +1,103 @@
+baseURL       = "http://example.org/"
+languageCode  = "en-us"
+title         = "Le Design Graphisme | Un Domaine Créatif"
+theme         = "roxo-hugo"
+summarylength = 25
+
+# Site Menus
+[menu]
+  # Navbar Menus
+  [[menu.nav]]
+    name    = "Accueil"
+    url     = ""
+    weight  = 1
+  [[menu.nav]]
+    name    = "A Propos"
+    url     = "about"
+    weight  = 2
+  [[menu.nav]]
+    name    = "Blog"
+    url     = "blog"
+    weight  = 3
+  [[menu.nav]]
+    name    = "Contact"
+    url     = "contact"
+    weight  = 4
+
+# Site Params
+[params]
+  logo = "images/logo-site.png"
+  logo_footer = "images/logo-site copie.png"
+  favicon_icon = "images/logo-site.png"
+  favicon_shortcut_icon = "images/logo-site.png"
+  custom_stylesheets = []   # [ "scss/my_1.scss", "scss/my_2.scss" ]
+  dateFormat = "26 FEB 1994"
+  # Meta data
+  description = "Roxo Hugo themes | Le domaine du design graphisme"
+  author = "StaticMania"
+  # Google Analitycs
+  googleAnalitycsID = "Your ID"
+  # We're using formspree.io for form handling, paste your formspree url below
+  fabform  = "https://fabform.io/f/USAg2Jl"
+
+  # Contact Form
+  [params.contactForm]
+    placeholder_first_name        = "Prénom"
+    placeholder_last_name         = "Nom"
+    placeholder_email             = "Email"
+    placeholder_project_type      = "Projet"
+    placeholder_about_the_project = "Votre message"
+    send_message                  = "Envoyer"
+
+    [[params.contactForm.projectType]]
+      value = "gd"
+      title  = "Graphics Design"
+    [[params.contactForm.projectType]]
+      value = "wd"
+      title  = "Autre"
+  
+  # Navbar Action Button
+  [params.navAction]
+    status  = true
+    name    = "Contact"
+    url     = "contact"
+  
+
+  # Banner Section
+  [params.banner]
+    enable                = true
+    background_image      = "images/backgrounds/fond.png"
+    heading               = "Le domaine du design graphisme"
+    primary_button        = "A Propos"
+    primary_button_url    = "about"
+    secondary_button      = "Blog"
+    secondary_button_url  = "blog"
+
+ 
+  [params.footer]
+    params.footer.qr_print = true
+    # Footer Contact Info
+    [params.footer.contactInfo]
+      title   = "Contact Info"
+      address = "HEIG-VD"
+      phone   = "+41 79 123 45 67"
+      email   = "Neyla.sanjuan@heig-vd.ch"
+      # Footer Sitemap
+      [params.footer.sitemap]
+        title   = "Sitemap"
+        [[params.footer.sitemap.link]]
+          name = "A Propos"
+          url  = "About"
+        [[params.footer.sitemap.link]]
+          name = "Blog"
+          url  = "blog"
+        [[params.footer.sitemap.link]]
+          name = "Contact"
+          url  = "contact"
+
+      # Footer Service
+      [params.footer.service]
+        title       = "L'objectif"
+        description = "Faire une veille technologique sur le domaine qui me plait"
+      [params.footer.back_to_top]
+        description = "Retourner <br> en haut"
