@@ -1,4 +1,4 @@
-baseURL       = "http://example.org/"
+baseURL       = "https://neylas.github.io/neylaS-LabVeilleTech-DesignGraphique"
 languageCode  = "en-us"
 title         = "Le Design Graphisme | Un Domaine Créatif"
 theme         = "roxo-hugo"
