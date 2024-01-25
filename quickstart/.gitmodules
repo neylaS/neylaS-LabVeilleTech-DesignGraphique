@@ -1,3 +1,3 @@
 [submodule "LabVeilleTech-MonDomaine"]
-    path = https://github.com/neylaS/neylaS-LabVeilleTech-MonDomaine
+    path = ../LabVeilleTech-MonDomaine
     url = https://github.com/neylaS/neylaS-LabVeilleTech-DesignGraphique
