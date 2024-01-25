@@ -12,7 +12,9 @@ L'article "Tout savoir sur le graphisme et le métier de designer graphique" off
 
 **Choix de l'article:** 
 
-L'article "Tout savoir sur le graphisme et le métier de designer graphique" est pertinent pour plusieurs raisons :
+Cet article est extrêmement utile pour toute personne intéressée par le monde du design graphique, qu'elle soit débutante ou expérimentée dans le domaine. Il fournit une vue d'ensemble complète et structurée, abordant tous les aspects essentiels du graphisme, des différentes spécialités jusqu'aux outils de conception indispensables. Pour ceux qui envisagent une carrière en design graphique, cet article est une mine d'informations précieuses, offrant un aperçu clair des compétences requises et des divers chemins possibles dans cette profession. De plus, en détaillant les logiciels clés et leur usage spécifique, il guide le lecteur dans la complexité du monde du design numérique, facilitant ainsi l'orientation vers les outils adéquats pour sa formation et sa pratique.
+
+Les points pertinent :
 
 1. Introduction Complète au Graphisme : Il offre une vue d'ensemble du graphisme, définissant clairement le domaine et ses applications dans divers contextes. Ceci est essentiel pour toute personne débutant dans le domaine ou souhaitant en savoir plus sur le design graphique.
 
@@ -26,11 +28,13 @@ L'article "Tout savoir sur le graphisme et le métier de designer graphique" est
 
 6. Clarté sur les Termes Relatifs au Design : En distinguant le graphisme du dessin et de l'écriture, l'article clarifie les différentes formes de communication visuelle, ce qui est bénéfique pour ceux qui cherchent à comprendre les nuances du domaine.
 
-En résumé, cet article est une ressource précieuse pour quiconque s'intéresse au graphisme, que ce soit pour une carrière ou pour un intérêt personnel, en fournissant les connaissances de base nécessaires pour se lancer dans ce domaine créatif
+En résumé, cet article est une ressource précieuse pour quiconque s'intéresse au graphisme, que ce soit pour une carrière ou pour un intérêt personnel, en fournissant les connaissances de base nécessaires pour se lancer dans ce domaine créatif.
 
 **Sa pertinence:**
 
-L'article sur le graphisme et le métier de designer graphique est pertinent pour plusieurs raisons. Il offre une introduction complète au domaine, ce qui est idéal si vous débutez ou envisagez une carrière dans le design graphique. Il détaille les différentes spécialités du graphisme, vous aidant à explorer divers chemins de carrière possibles selon vos intérêts. De plus, l'article fournit des informations sur les outils essentiels et les compétences nécessaires pour se former en graphisme, ce qui est crucial pour développer votre pratique professionnelle. Enfin, il élargit votre perspective sur le design graphique en le comparant à d'autres formes de communication visuelle, enrichissant ainsi votre compréhension globale du domaine. En résumé, cet article est une ressource précieuse pour enrichir vos connaissances et stimuler votre créativité dans le monde du design graphique.
+En tant qu'étudiante passionnée par le design, je trouve cet article absolument inestimable. Il m'a ouvert les yeux sur les aspects fondamentaux du graphisme et m'a permis de découvrir les nombreuses facettes de cette discipline fascinante. Que mon intérêt se dirige vers la création d'identité de marque, le graphisme publicitaire ou encore le design UX/UI, cet article couvre tout ce dont j'ai besoin pour orienter mes études et mes futurs projets professionnels.
+
+Ce que j'apprécie particulièrement, c'est la manière dont l'article explore les outils pratiques de conception. Il m'a fourni des connaissances essentielles qui me sont indispensables pour débuter et enrichir ma pratique en design graphique. En tant que personne passionnée, me trouvant à l'intersection de l'éducation et de la carrière professionnelle, cet article est pour moi un guide précieux. Il m'aide à naviguer à travers l'immense et complexe univers du graphisme, en m'offrant une compréhension claire et des conseils pratiques qui me seront utiles tout au long de mon parcours dans le monde du design.
 
 
 ***Source :***

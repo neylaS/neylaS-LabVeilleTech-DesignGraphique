@@ -9,8 +9,7 @@ author: Neyla Sanjuan
 
 Dans l'univers en constante évolution du design graphique, rester informé des dernières tendances, techniques et outils est essentiel. Une veille efficace permet aux designers de se tenir au courant, d'innover et de rester compétitifs. Cet article explore comment mettre en place des outils de veille performants en design graphique, en partageant également des exemples concrets d'outils que j'ai utilisés.
 
-La veille en design graphique est bien plus qu’une simple observation des tendances. Elle nécessite une compréhension des évolutions technologiques, des attentes du marché et des influences artistiques. Cette démarche proactive permet aux designers non seulement de suivre l'évolution de leur domaine mais aussi d’être des précurseurs de tendances. Elle contribue à développer une approche design informée, créative et originale.
-
+La veille en design graphique est bien plus qu’une simple observation des tendances. Elle nécessite une compréhension des évolutions technologiques, des attentes du marché et des influences artistiques. Cette démarche proactive permet aux designers non seulement de suivre l'évolution de leur domaine, mais aussi d’être des précurseurs de tendances. Elle contribue à développer une approche design informée, créative et originale.
 
 Il existe une multitude d'outils adaptés à la veille en design graphique. Voici quelques exemples que j'ai personnellement intégrés dans ma routine de veille :
 
